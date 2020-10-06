@@ -5,18 +5,29 @@ Bitcoin prizes are sent via the Bitcoin Lightning Network. This means you need a
 
 ### iOS
 Wallet of Satoshi  (custodial) https://apps.apple.com/us/app/wallet-of-satoshi/id1438599608
+
 Blue Wallet (custodial) https://apps.apple.com/app/bluewallet-bitcoin-wallet/id1376878040
+
 Breez (warning: beta) (non-custodial) https://testflight.apple.com/join/wPju2Du7
+
 Zeus (warning: beta) (remote) https://testflight.apple.com/join/gpVFzEHN
+
 Zap (remote) https://apps.apple.com/us/app/zap-bitcoin-lightning-wallet/id1406311960
+
 
 ### Android
 Wallet of Satoshi  (custodial) https://play.google.com/store/apps/details?id=com.livingroomofsatoshi.wallet
+
 Blue Wallet (custodial) https://play.google.com/store/apps/details?id=io.bluewallet.bluewallet
+
 Phoenix (non-custodial) https://play.google.com/store/apps/details?id=fr.acinq.phoenix.mainnet
+
 BLW (non-custodial) https://play.google.com/store/apps/details?id=com.lightning.walletapp
+
 Breez (warning: beta) (non-custodial) https://play.google.com/apps/testing/com.breez.client
+
 Zeus (remote) https://play.google.com/store/apps/details?id=app.zeusln.zeus
+
 Zap (remote) https://play.google.com/store/apps/details?id=zapsolutions.zap
 
 ## Definitions
