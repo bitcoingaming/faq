@@ -1,4 +1,4 @@
-## Compatible Bitcoin Lightning Network Wallets
+# Compatible Bitcoin Lightning Network Wallets
 Bitcoin prizes are sent via the Bitcoin Lightning Network. This means you need a modern Bitcoin wallet installed on your phone to cash out.  Here is a list of wallets that support the Lightning Network and are compatible of writing this article.
 
 ## Wallets
